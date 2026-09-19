@@ -1,0 +1,4 @@
+{
+  "required": ["catalog_id", "system", "controls"],
+  "control_required": ["control_id", "framework", "requirement", "owner", "implementation", "evidence_ids", "review_frequency_days"]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "evidence_id": "EVD-001",
+    "control_id": "AC-2",
+    "artifact": "Account inventory export",
+    "source": "Okta",
+    "status": "Current",
+    "collected_date": "2026-09-01",
+    "next_review_date": "2026-10-01",
+    "owner": "Identity Engineering",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Current"
+  },
+  {
+    "evidence_id": "EVD-002",
+    "control_id": "AC-2",
+    "artifact": "Privileged access review",
+    "source": "Okta",
+    "status": "Partial",
+    "collected_date": "2026-08-15",
+    "next_review_date": "2026-09-15",
+    "owner": "IAM Owner",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Partial"
+  },
+  {
+    "evidence_id": "EVD-003",
+    "control_id": "AU-2",
+    "artifact": "Audit event and retention configuration",
+    "source": "Splunk",
+    "status": "Current",
+    "collected_date": "2026-09-05",
+    "next_review_date": "2026-10-05",
+    "owner": "Security Operations",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Current"
+  },
+  {
+    "evidence_id": "EVD-004",
+    "control_id": "CA-7",
+    "artifact": "Monthly continuous monitoring review",
+    "source": "GRC",
+    "status": "Current",
+    "collected_date": "2026-09-08",
+    "next_review_date": "2026-10-08",
+    "owner": "GRC",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Current"
+  },
+  {
+    "evidence_id": "EVD-005",
+    "control_id": "CA-7",
+    "artifact": "Open risk and POA&M aging report",
+    "source": "GRC",
+    "status": "Current",
+    "collected_date": "2026-09-08",
+    "next_review_date": "2026-10-08",
+    "owner": "GRC",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Current"
+  },
+  {
+    "evidence_id": "EVD-006",
+    "control_id": "RA-5",
+    "artifact": "Cloud vulnerability findings",
+    "source": "Wiz",
+    "status": "Current",
+    "collected_date": "2026-09-10",
+    "next_review_date": "2026-10-10",
+    "owner": "Vulnerability Management",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Current"
+  },
+  {
+    "evidence_id": "EVD-007",
+    "control_id": "RA-5",
+    "artifact": "Application scan findings",
+    "source": "Burp",
+    "status": "Missing",
+    "collected_date": "",
+    "next_review_date": "",
+    "owner": "Application Security",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Missing"
+  },
+  {
+    "evidence_id": "EVD-008",
+    "control_id": "CM-3",
+    "artifact": "Security impact assessment",
+    "source": "Engineering Change",
+    "status": "Partial",
+    "collected_date": "2026-09-07",
+    "next_review_date": "2026-12-07",
+    "owner": "Change Management",
+    "retention_location": "Controlled evidence repository",
+    "normalized_status": "Partial"
+  }
+]

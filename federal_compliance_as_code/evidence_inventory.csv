@@ -1,0 +1,9 @@
+evidence_id,control_id,artifact,source,status,collected_date,next_review_date,owner,retention_location
+EVD-001,AC-2,Account inventory export,Okta,Current,2026-09-01,2026-10-01,Identity Engineering,Controlled evidence repository
+EVD-002,AC-2,Privileged access review,Okta,Partial,2026-08-15,2026-09-15,IAM Owner,Controlled evidence repository
+EVD-003,AU-2,Audit event and retention configuration,Splunk,Current,2026-09-05,2026-10-05,Security Operations,Controlled evidence repository
+EVD-004,CA-7,Monthly continuous monitoring review,GRC,Current,2026-09-08,2026-10-08,GRC,Controlled evidence repository
+EVD-005,CA-7,Open risk and POA&M aging report,GRC,Current,2026-09-08,2026-10-08,GRC,Controlled evidence repository
+EVD-006,RA-5,Cloud vulnerability findings,Wiz,Current,2026-09-10,2026-10-10,Vulnerability Management,Controlled evidence repository
+EVD-007,RA-5,Application scan findings,Burp,Missing,,,Application Security,Controlled evidence repository
+EVD-008,CM-3,Security impact assessment,Engineering Change,Partial,2026-09-07,2026-12-07,Change Management,Controlled evidence repository

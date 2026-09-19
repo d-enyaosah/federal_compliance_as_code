@@ -1,0 +1,11 @@
+{
+  "change_id": "CHG-2026-014",
+  "title": "Introduce managed container runtime into synthetic federal boundary",
+  "requestor": "Platform Engineering",
+  "planned_date": "2026-10-15",
+  "systems_affected": ["Application runtime", "Logging", "Vulnerability management", "Access control"],
+  "security_impacts": ["New service identities", "New audit events", "Container image scanning", "Boundary and data-flow updates"],
+  "controls_affected": ["AC-2", "AU-2", "CA-7", "RA-5", "CM-3"],
+  "required_actions": ["Complete architecture review", "Update boundary diagram", "Validate logging", "Run vulnerability scan", "Update control narratives and evidence index"],
+  "decision": "Approval pending evidence and Security review"
+}

@@ -1,0 +1,3 @@
+finding_id,source,asset,severity,jira_ticket,owner,sla_due,sla_status,planned_action
+VULN-001,Wiz,aws-govcloud-workload-01,Critical,SEC-4101,Cloud Security,2026-09-16,Open,"Remediate, validate closure, and retain audit evidence"
+VULN-003,Burp,federal-web-api,High,APPSEC-882,Application Security,2026-10-05,Open,"Remediate, validate closure, and retain audit evidence"

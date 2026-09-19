@@ -1,0 +1,6 @@
+control_id,framework,owner,implementation,evidence_count,readiness
+AC-2,FedRAMP High; NIST SP 800-53,Identity Engineering,"Okta-centered provisioning, approval, review, disablement, and evidence retention workflow",2,Needs Review
+AU-2,FedRAMP High; NIST SP 800-53,Security Operations,Cloud and application events are routed to centralized logging with documented retention and review,1,Ready
+CA-7,FedRAMP High; NIST SP 800-53,GRC,"Monthly evidence, vulnerability, POA&M, change, and risk-status review with escalation",2,Ready
+RA-5,FedRAMP High; NIST SP 800-53,Vulnerability Management,"Reconcile cloud, host, and application findings; route remediation; track SLA; validate closure",2,Gap
+CM-3,FedRAMP High; NIST SP 800-53,Change Management,"Assess security impact, record approvals, update artifacts, and validate controls before production",1,Needs Review

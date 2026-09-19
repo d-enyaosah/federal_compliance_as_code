@@ -1,0 +1,9 @@
+{
+  "as_of": "2026-09-12",
+  "system": "Synthetic FedRAMP High SaaS Boundary",
+  "controls": 5,
+  "control_gaps": 3,
+  "open_vulnerabilities": 2,
+  "overdue_vulnerabilities": 0,
+  "change_decision": "Approval pending evidence and Security review"
+}
